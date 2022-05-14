@@ -1,0 +1,39 @@
+Dados: 
+Procura em cada dia da semana
+Salário diário
+
+Restrições:
+Satisfação das necessidades de atendimento 
+
+Função objetivo
+Minimização dos custos.
+
+Variáveis de decisão:
+Xi:  número de funcionários contratados do dia i ao i+4
+
+
+Resposta obtida no lpsolve:
+
+Value of objective function: 116.00000000
+
+Actual values of the variables:
+x1                              1
+x2                              6
+x3                              1
+x4                              2
+x5                              5
+x6                              4
+x7                              0
+
+Cálculo do excesso de funcionários em cada dia
+
+numero func  | Excesso
+12           | 2 
+16           | 0
+12           | 0
+10           | 2
+15           | 0
+18           | 0
+12           | 0
+
+

@@ -1,0 +1,12 @@
+Dados:
+Procura de cada largura
+Largura de cada rolo pedido e dos rolos de matéria prima
+
+Variáveis de decisão:
+xj numero de rolos cortados segundo um padrão de corte j 
+
+restrições 
+Satisfação da procura dos rolos de cada largura
+
+função objetivo:
+minimização do nr de rolos usados
